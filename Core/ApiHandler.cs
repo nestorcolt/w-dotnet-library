@@ -5,8 +5,9 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using CloudLibrary.Interfaces;
 
-namespace CloudLibrary.Controllers
+namespace CloudLibrary.Core
 {
     public class ApiHandler : IApiHandler
     {

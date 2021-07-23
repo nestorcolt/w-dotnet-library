@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CloudLibrary.Lib
+namespace CloudLibrary.Domain
 {
     public static class Utils
     {

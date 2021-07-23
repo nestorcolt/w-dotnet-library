@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace CloudLibrary.Models
+namespace CloudLibrary.Interfaces
 {
     public interface IApiHandler
     {

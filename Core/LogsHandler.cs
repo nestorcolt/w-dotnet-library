@@ -1,10 +1,10 @@
-﻿using CloudLibrary.lib;
-using System;
+﻿using System;
 using System.Threading.Tasks;
+using CloudLibrary.Common;
 
-namespace CloudLibrary.Lib
+namespace CloudLibrary.Core
 {
-    public static class CloudLogger
+    public static class LogsHandler
     {
         public static async Task Log(string message, string userId)
         {

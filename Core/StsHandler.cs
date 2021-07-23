@@ -1,7 +1,7 @@
 ﻿using Amazon.SecurityToken;
 using Amazon.SecurityToken.Model;
 
-namespace CloudLibrary.Lib
+namespace CloudLibrary.Core
 {
     public static class StsHandler
     {

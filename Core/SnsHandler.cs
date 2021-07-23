@@ -3,7 +3,7 @@ using Amazon.SimpleNotificationService.Model;
 using System;
 using System.Threading.Tasks;
 
-namespace CloudLibrary.Lib
+namespace CloudLibrary.Core
 {
     public static class SnsHandler
     {
